@@ -1,0 +1,25 @@
+body{
+  background-color: #E3ACF9;
+}
+.q1{
+  text-align: center;
+  margin: 20px 0;
+  font-style: italic;
+  font-family: 'Montserrat',sans-serif;
+  color: #1199EE;
+}
+.w1{
+  color:#30e3cb;
+}
+.w1:hover{
+  color: #11cdd4;
+}
+label{
+  font-family: 'Sacramento',serif;
+}
+.page2{
+  margin-top: 20px;
+}
+.aa{
+  margin-left: 20px;
+}
